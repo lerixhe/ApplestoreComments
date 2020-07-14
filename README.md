@@ -1,7 +1,16 @@
+# 介绍
+
+使用本python脚本，可通过苹果官方rss接口获取指定应用在appstore的最新500条评论
+
 # 使用方式：
 
-安装python 3环境，不会的请百度
-pip安装模块： XlsxWriter，用来生成excle文件 : pip install XlsxWrite
+1.安装python 3环境，不会的请百度
+
+2. pip安装模块： XlsxWriter，用来生成excle文件 
+
+```shell
+pip install XlsxWrite
+```
 
 # 注意事项：
 
